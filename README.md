@@ -1,1 +1,146 @@
-# DSA-Learning
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=DSA-Learning&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Day-by-Day%20Data%20Structures%20%26%20Algorithms%20in%20Python&descAlignY=60&descSize=18" alt="header" />
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D8FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+a+BS+IT+Student+%F0%9F%8E%93;University+of+Okara%2C+Pakistan+%F0%9F%87%B5%F0%9F%87%B0;Learning+DSA+step+by+step+%F0%9F%9A%80;One+Day.+One+Concept.+One+Commit." alt="Typing SVG" />
+</a>
+
+<br/>
+
+![Python](https://img.shields.io/badge/Python-3.x-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Status](https://img.shields.io/badge/Status-Learning-brightgreen?style=for-the-badge)
+![Days](https://img.shields.io/badge/Days%20Completed-0-orange?style=for-the-badge)
+![Made with Love](https://img.shields.io/badge/Made%20with-%E2%9D%A4-red?style=for-the-badge)
+
+</div>
+
+---
+
+## 👋 About This Repo
+
+Yeh repository meri **DSA (Data Structures and Algorithms)** learning journey hai. Main har din ek chhota topic seekhta hoon, Python mein code likhta hoon, aur yahan **Day-wise** upload karta hoon.
+
+- 🎓 **Student:** BS IT, 3rd Semester
+- 🏫 **University:** University of Okara, Pakistan
+- 🐍 **Language:** Python
+- 🎯 **Goal:** Beginner se university level tak concepts strong karna
+
+---
+
+## 🗺️ Learning Roadmap
+
+| Day | Topic | Status |
+|:---:|-------|:------:|
+| 01 | DSA Basics & Big-O Notation | ⏳ Upcoming |
+| 02 | Arrays & Python Lists | ⏳ Upcoming |
+| 03 | Linear Search & Binary Search | ⏳ Upcoming |
+| 04 | Sorting Algorithms | ⏳ Upcoming |
+| 05 | Recursion | ⏳ Upcoming |
+| 06 | Linked Lists | ⏳ Upcoming |
+| 07 | Stacks & Queues | ⏳ Upcoming |
+| 08 | Hash Tables & Dictionaries | ⏳ Upcoming |
+| 09 | Trees & Binary Search Trees | ⏳ Upcoming |
+| 10 | Heaps & Priority Queues | ⏳ Upcoming |
+| 11 | Graphs, BFS & DFS | ⏳ Upcoming |
+| 12 | Greedy Algorithms | ⏳ Upcoming |
+| 13 | Basic Dynamic Programming | ⏳ Upcoming |
+| 14 | Problem-Solving Practice | ⏳ Upcoming |
+
+> Status legend: ✅ Done | 🔄 In Progress | ⏳ Upcoming
+
+---
+
+## 📊 Progress
+
+<div align="center">
+
+![Progress](https://geps.dev/progress/0)
+
+**0 / 14 topics completed**
+
+</div>
+
+---
+
+## 📁 Repository Structure
+
+```
+DSA-Learning/
+├── Day-01-Big-O/
+│   ├── big_o_examples.py
+│   └── notes.md
+├── Day-02-Arrays/
+│   ├── arrays.py
+│   └── notes.md
+├── Day-03-Searching/
+│   └── ...
+└── README.md
+```
+
+Har Day folder mein hoga:
+- 🐍 Python code file
+- 📝 Notes (Roman Urdu + English)
+- ❓ Practice questions
+
+---
+
+## 🧠 Is Repo Ka Tareeqa (Learning Method)
+
+1. 📖 Concept samajhna (real-life example ke sath)
+2. 💻 Python mein code likhna
+3. 🔍 Output trace karna
+4. ✍️ Practice question solve karna
+5. ⬆️ GitHub par upload karna
+6. 💼 LinkedIn par post karna
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true" width="95%" />
+
+</div>
+
+> ⚠️ `YOUR_USERNAME` ki jagah apna GitHub username likhna na bhoolen.
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
+
+</div>
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_LINKEDIN)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
+
+</div>
+
+---
+
+<div align="center">
+
+⭐ Agar yeh repo aapko helpful lage to **Star** zaroor karein!
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=100&section=footer" alt="footer" />
+
+</div>
