@@ -1,14 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=DSA-Learning&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Day-by-Day%20Data%20Structures%20%26%20Algorithms%20in%20Python&descAlignY=60&descSize=18" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0f2027,50:203a43,100:2c5364&amp;height=200&amp;section=header&amp;text=DSA-Learning&amp;fontSize=60&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=Day-by-Day%20Data%20Structures%20and%20Algorithms%20in%20Python&amp;descAlignY=60&amp;descSize=18" alt="header" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D8FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+a+BS+IT+Student+%F0%9F%8E%93;University+of+Okara%2C+Pakistan+%F0%9F%87%B5%F0%9F%87%B0;Learning+DSA+step+by+step+%F0%9F%9A%80;One+Day.+One+Concept.+One+Commit." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=22&amp;pause=1000&amp;color=00D8FF&amp;center=true&amp;vCenter=true&amp;width=700&amp;lines=Hi%2C+I'm+a+BS+IT+Student+%F0%9F%8E%93;University+of+Okara%2C+Pakistan+%F0%9F%87%B5%F0%9F%87%B0;Learning+DSA+step+by+step+%F0%9F%9A%80;One+Day.+One+Concept.+One+Commit." alt="Typing SVG" />
 </a>
 
 <br/>
 
-![Python](https://img.shields.io/badge/Python-3.x-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3.x-3776AB?style=for-the-badge&amp;logo=python&amp;logoColor=white)
 ![Status](https://img.shields.io/badge/Status-Learning-brightgreen?style=for-the-badge)
 ![Days](https://img.shields.io/badge/Days%20Completed-0-orange?style=for-the-badge)
 ![Made with Love](https://img.shields.io/badge/Made%20with-%E2%9D%A4-red?style=for-the-badge)
@@ -32,17 +32,17 @@ Yeh repository meri **DSA (Data Structures and Algorithms)** learning journey ha
 
 | Day | Topic | Status |
 |:---:|-------|:------:|
-| 01 | DSA Basics & Big-O Notation | ⏳ Upcoming |
-| 02 | Arrays & Python Lists | ⏳ Upcoming |
-| 03 | Linear Search & Binary Search | ⏳ Upcoming |
+| 01 | DSA Basics &amp; Big-O Notation | ⏳ Upcoming |
+| 02 | Arrays &amp; Python Lists | ⏳ Upcoming |
+| 03 | Linear Search &amp; Binary Search | ⏳ Upcoming |
 | 04 | Sorting Algorithms | ⏳ Upcoming |
 | 05 | Recursion | ⏳ Upcoming |
 | 06 | Linked Lists | ⏳ Upcoming |
-| 07 | Stacks & Queues | ⏳ Upcoming |
-| 08 | Hash Tables & Dictionaries | ⏳ Upcoming |
-| 09 | Trees & Binary Search Trees | ⏳ Upcoming |
-| 10 | Heaps & Priority Queues | ⏳ Upcoming |
-| 11 | Graphs, BFS & DFS | ⏳ Upcoming |
+| 07 | Stacks &amp; Queues | ⏳ Upcoming |
+| 08 | Hash Tables &amp; Dictionaries | ⏳ Upcoming |
+| 09 | Trees &amp; Binary Search Trees | ⏳ Upcoming |
+| 10 | Heaps &amp; Priority Queues | ⏳ Upcoming |
+| 11 | Graphs, BFS &amp; DFS | ⏳ Upcoming |
 | 12 | Greedy Algorithms | ⏳ Upcoming |
 | 13 | Basic Dynamic Programming | ⏳ Upcoming |
 | 14 | Problem-Solving Practice | ⏳ Upcoming |
@@ -100,12 +100,12 @@ Har Day folder mein hoga:
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true" />
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&amp;theme=tokyonight&amp;hide_border=true" />
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true" width="95%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&amp;theme=tokyo-night&amp;hide_border=true" width="95%" />
 
 </div>
 
@@ -117,10 +117,10 @@ Har Day folder mein hoga:
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&amp;logo=python&amp;logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&amp;logo=visualstudiocode&amp;logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&amp;logo=git&amp;logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&amp;logo=github&amp;logoColor=white)
 
 </div>
 
@@ -130,8 +130,8 @@ Har Day folder mein hoga:
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_LINKEDIN)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white)](https://www.linkedin.com/in/YOUR_LINKEDIN)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white)](https://github.com/YOUR_USERNAME)
 
 </div>
 
@@ -141,6 +141,6 @@ Har Day folder mein hoga:
 
 ⭐ Agar yeh repo aapko helpful lage to **Star** zaroor karein!
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=100&section=footer" alt="footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:2c5364,100:0f2027&amp;height=100&amp;section=footer" alt="footer" />
 
 </div>
